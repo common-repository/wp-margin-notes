@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Margin Notes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-02 22:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Florian TIAR <contact@tiar-florian.fr>\n"
+"Language-Team: Florian TIAR <contact@tiar-florian.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _e;__;_x;esc_html__;esc_html_e;_n;_ex;esc_html_x;"
+"esc_attr_x;translate;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: fields\n"
+
+#: classes/main.php:42
+msgid ""
+"WP Margin Notes : wp_register_script fails to register assets/js/vendor/"
+"marginotes.js"
+msgstr ""
+
+#: classes/main.php:47
+msgid ""
+"WP Margin Notes : wp_register_script fails to register assets/js/script."
+"js"
+msgstr ""
+
+#: classes/shortcodes/margin-notes.php:59
+msgid "Margin Notes"
+msgstr ""
+
+#: classes/shortcodes/margin-notes.php:69
+msgid "Margin Note"
+msgstr ""
+
+#: classes/shortcodes/margin-notes.php:72
+msgid "The text of the margin note"
+msgstr ""
+
+#: classes/shortcodes/margin-notes.php:75
+msgid "HTML Tag"
+msgstr ""
+
+#: classes/shortcodes/margin-notes.php:84
+msgid "Optional (<pre><span></pre> by default)"
+msgstr ""
+
+#: classes/shortcodes/margin-notes.php:87
+msgid "Link"
+msgstr ""
+
+#: classes/shortcodes/margin-notes.php:90
+msgid "The url of the link if you choose <a> tag"
+msgstr ""
+
+#: classes/shortcodes/margin-notes.php:94
+msgid "Text"
+msgstr ""
+
+#: compat.php:23
+#, php-format
+msgid ""
+"WP Margin Notes requires PHP version %s or greater to be activated."
+msgstr ""
+
+#: compat.php:38
+#, php-format
+msgid ""
+"WP Margin Notes require PHP version %s or greater to be activated. Your "
+"server is currently running PHP version %s."
+msgstr ""

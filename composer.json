@@ -1,0 +1,14 @@
+{
+  "name": "Mahjouba91/wp-margin-notes",
+  "description": "Add margin notes easily in your WordPress posts",
+  "homepage": "https://github.com/Mahjouba91/wp-margin-notes",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Mahjouba91",
+      "email": "contact@tiar-florian.fr"
+    }
+  ],
+  "type" : "wordpress-plugin"
+}
